@@ -1,6 +1,7 @@
 a {
 	text-decoration: none;
 	color: black;
+	text-align: right;
 
 }
 
@@ -17,4 +18,6 @@ li{
 
 .buttons:hover{
 	text-decoration: underline;
+	
+
 }	
