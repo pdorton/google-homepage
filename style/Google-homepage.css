@@ -1,23 +1,30 @@
+
+
 a {
+	width: 60px;
 	text-decoration: none;
 	color: black;
-	text-align: right;
-
+	
 }
 
 ul {
 	list-style-type: none;
 	margin: 0; 
 	padding: 0;
-
 }
+
 li{
 	display: inline;
-	
+	float: right;
+	padding: 10px;
 }
 
 .buttons:hover{
-	text-decoration: underline;
-	
 
+	text-decoration: underline;
 }	
+
+
+
+
+	
