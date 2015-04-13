@@ -23,7 +23,9 @@ li{
 
 	text-decoration: underline;
 }	
-
+.footer {
+	float: bottom ;
+}
 
 
 
